@@ -5,3 +5,7 @@ void main() {
 void dataPertama() {
   print("data pertama");
 }
+
+void dataKedua() {
+  print("data dua");
+}
